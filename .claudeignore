@@ -1,0 +1,45 @@
+# Git repository (massive in Unity projects)
+.git/
+
+# Unity generated folders
+Library/
+Temp/
+obj/
+Logs/
+UserSettings/
+Assets/TextMesh Pro/
+
+# Build outputs
+Builds/
+Build/
+
+# IDE folders
+.vs/
+.vscode/
+.idea/
+
+# Package cache
+Packages/
+*.csproj.user
+
+# Unity meta files (not needed for code analysis)
+*.meta
+
+# Solution and project files
+*.sln
+*.csproj
+
+# Unity project settings (configuration files)
+ProjectSettings/
+
+# Unity asset files (serialized data)
+*.asset
+*.unity
+*.prefab
+*.inputactions
+
+# Misc junk files
+UpgradeLog.htm
+.vsconfig
+nul
+*.json
